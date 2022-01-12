@@ -119,7 +119,7 @@ Use the getFlavorByIndex function below to do the following:
   1. Recieve an array
   2. Receive a number (the desired index)
   3. Return the flavor located at the received index position
-
+  //Adding a comment 
   For example: running getFlavorByIndex(originalFlavors, 2) would return "Black Walnut", assuming Rainbow Sherbert has been added successfully
 */
 
@@ -152,7 +152,6 @@ function removeFlavorByName(array, flavor){
  return array
 }
 console.log(removeFlavorByName(originalFlavors, "Rocky Road"))
-
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
